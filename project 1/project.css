@@ -1,0 +1,35 @@
+.hii{
+    
+    text-align: center;
+    color: black;
+   font-size: 50px;
+
+}
+
+*{
+    background-color: #ff8533;
+
+
+}
+#hallo{
+    font-size: 30px;
+
+}
+div>h3{
+    color: black;
+    text-align: center;
+    margin-top: 10%;
+
+
+}
+button{
+    align-items: center;
+    margin-left: 45.5%;
+    background-color: yellow;
+    border-radius: 20%;
+    height:50px;
+    width: 150px;
+    font-size: 20px;
+}
+
+   
